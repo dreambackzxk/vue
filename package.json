@@ -13,6 +13,7 @@
   "dependencies": {
     "axios": "^0.20.0",
     "element-ui": "^2.13.2",
+    "ng-devui": "^9.2.0",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1",
     "vue-validator": "^3.0.0-alpha.2"

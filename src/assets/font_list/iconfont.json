@@ -1,0 +1,44 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1034000",
+      "name": "数据",
+      "font_class": "iconfontpaixingbang",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "12011696",
+      "name": "order",
+      "font_class": "order",
+      "unicode": "e7b3",
+      "unicode_decimal": 59315
+    },
+    {
+      "icon_id": "13087837",
+      "name": "权益配置",
+      "font_class": "quanyipeizhi",
+      "unicode": "e7c4",
+      "unicode_decimal": 59332
+    },
+    {
+      "icon_id": "13087852",
+      "name": "账户操作",
+      "font_class": "zhanghucaozuo",
+      "unicode": "e7c9",
+      "unicode_decimal": 59337
+    },
+    {
+      "icon_id": "13087855",
+      "name": "Add Products",
+      "font_class": "AddProducts",
+      "unicode": "e7ca",
+      "unicode_decimal": 59338
+    }
+  ]
+}
